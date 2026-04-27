@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
-import "./index.css";
+import "./App.css";
 
 
 export default function App() {
@@ -87,7 +87,7 @@ export default function App() {
     <div className="container d-flex align-items-center justify-content-between">
 
       <a className="navbar-brand" href="#">
-        <img src="assets/Logo.png" alt="Website Logo"/>
+        <img src="src/assets/Logo.png" alt="Website Logo"/>
       </a>
 
       <div className="mobile-icons d-flex gap-5">
