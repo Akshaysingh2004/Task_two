@@ -87,7 +87,7 @@ export default function App() {
     <div className="container d-flex align-items-center justify-content-between">
 
       <a className="navbar-brand" href="#">
-        <img src="src/assets/Logo.png" alt="Website Logo"/>
+        <img src="assets/Logo.png" alt="Website Logo"/>
       </a>
 
       <div className="mobile-icons d-flex gap-5">
